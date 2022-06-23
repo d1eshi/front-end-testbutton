@@ -30,7 +30,6 @@ button::before,
 button::after {
     position: absolute;
     content: '★';
-    /* right: 2; */
     color: #888888;
     line-height: 1;
 }
